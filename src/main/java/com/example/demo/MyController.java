@@ -4,5 +4,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class MyController {
-System.out.println();
+	public void m1() {
+      System.out.println();
+	}
 }
